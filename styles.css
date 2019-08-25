@@ -1,0 +1,20 @@
+body{
+ text-align: center;  
+ border:15px dashed white;
+ background:url("https://bit.ly/2WbXdp2");
+ color:white;
+}
+
+h1{
+    font-family: 'Carter One', cursive;
+}
+
+h2{
+    font-family: 'Merienda', cursive;
+}
+
+p{
+    font-family: 'Boogaloo', cursive;
+    font-size:25px;
+}
+  
